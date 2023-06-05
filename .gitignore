@@ -572,4 +572,6 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
+screenshot/
+
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node,Linux,macOS,Windows,VisualStudio
